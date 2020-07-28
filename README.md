@@ -1,0 +1,2 @@
+# imageCompression
+JEPG compression interface
